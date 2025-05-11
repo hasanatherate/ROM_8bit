@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 
-module ROM_Param #(
+module ROM #(
     parameter DATA_WIDTH = 8,
     parameter ADDR_WIDTH = 8,
     parameter MEM_DEPTH = 1 << ADDR_WIDTH
