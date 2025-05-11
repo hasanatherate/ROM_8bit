@@ -18,3 +18,4 @@ This project demonstrates a parameterized 8-bit ROM (Read-Only Memory) implement
 
 ## 🔍 Sample Output
 
+![Screenshot 2025-05-11 at 2 52 57 PM](https://github.com/user-attachments/assets/83d1cbfd-11ae-4739-ac67-545e6237572d)
